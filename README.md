@@ -1,4 +1,4 @@
-<h1 align="center"> Clustering of regoins in <a href="https://daniilshat.ru/" target="_blank">Russia </a> 
+<h1 align="center"> Clustering of regoins in <a href="https://daniilshat.ru/" target="_blank">Russia </a> /
 Бриф № 2: определение уязвимых групп населения
 Задачу, описанную в брифе, поставила молодая НКО, которая хочет помогать малообеспеченным людям. Чтобы делать это эффективно, НКО нужно понять, где живут такие люди, и открыть там свои филиалы.
 
