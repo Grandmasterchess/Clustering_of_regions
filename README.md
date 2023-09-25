@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://daniilshat.ru/" target="_blank">Clustering_of_regions</a> # Clustering_of_regions
+<h1 align="center" <a href="https://daniilshat.ru/" target="_blank">Clustering_of_regions</a> # Clustering_of_regions
 Бриф № 2: определение уязвимых групп населения
 Задачу, описанную в брифе, поставила молодая НКО, которая хочет помогать малообеспеченным людям. Чтобы делать это эффективно, НКО нужно понять, где живут такие люди, и открыть там свои филиалы.
 
